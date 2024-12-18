@@ -14,7 +14,7 @@ spec:
   spec:
     containers:
     - name: gitops
-      image: erickuce/gitops:latest
+      image: meybili/gitops:latest
       ports:
       - containerPort: 80
 ---
